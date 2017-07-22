@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 
+// example of class selector
 @Component({
-  selector: 'app-success-alert',
+  selector: '.app-success-alert',
   templateUrl: './success-alert.component.html'
 })
 
