@@ -5,7 +5,7 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { AlertsComponent } from './alerts/alerts.component';
-import { SuccessAlertComponent} from './successAlert/successAlert.component';
+import { SuccessAlertComponent} from './success-alert/success-alert.component';
 import { WarningAlertComponent } from './warning-alert/warning-alert.component';
 
 @NgModule({

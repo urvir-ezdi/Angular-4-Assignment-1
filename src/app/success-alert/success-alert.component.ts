@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-success-alert',
-  templateUrl: './successAlert.component.html'
+  templateUrl: './success-alert.component.html'
 })
 
 export class SuccessAlertComponent {
