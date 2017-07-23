@@ -4,6 +4,7 @@ https://www.udemy.com/the-complete-guide-to-angular-2/
 
 First assignment to practice skills learned so far.
 
+Task objectives:
 1. Create two new components (manually or with CLI): WarningAlert and SuccessAlert
 2. Output them beneath each other in the AppComponent
 3. Output a warning or success message in the components
