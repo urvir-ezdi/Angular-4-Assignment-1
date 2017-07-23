@@ -13,3 +13,5 @@ Use external or internal templates and styles!
 
 Feel fee to create more components, nest them into each other or play around with different types of selectors!
 
+![Alt text](images/Angular-4-Assignment-1-ScreenShot.png?raw=true "Screen Shot")
+
